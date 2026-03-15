@@ -1,1 +1,3 @@
 console.log("Hello Git")
+console.log ("hello world")
+console.log ("this is a update")
